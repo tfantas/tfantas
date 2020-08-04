@@ -33,3 +33,5 @@ You can find and get touch with me on these accounts!
 [![Twitter Badge](https://img.shields.io/badge/SkylineThiago-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/SkylineThiago)
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="100px" width="100px">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopt)](https://github.com/tfantas/github-readme-stats)
