@@ -1,4 +1,4 @@
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="100px" width="100px">
 
 <!--
 **tfantas/tfantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
