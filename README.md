@@ -38,4 +38,3 @@ You can find and get touch with me on these accounts!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopt)](https://github.com/tfantas/github-readme-stats)
 
 
-OK
