@@ -1,0 +1,21 @@
+/*
+0. General Styling
+*/
+
+/* ----------------------------------------------------------------------------------------------------------
+	0. GENERAL
+---------------------------------------------------------------------------------------------------------- */
+
+/* Menu icon */
+#toplevel_page_thinkup-setup .wp-menu-image img {
+	opacity: 1 !important;
+}
+
+/* Style upgrade menu link */
+#toplevel_page_thinkup-setup .thinkup-sidebar-upgrade-pro {
+	background: #25ab6c !important;
+}
+#toplevel_page_thinkup-setup .thinkup-sidebar-upgrade-pro a {
+	color: #fff !important;
+}
+

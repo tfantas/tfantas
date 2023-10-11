@@ -1,0 +1,9 @@
+/* Add Styling to Admin Area */
+
+/*----------------------------------------------------
+	HIDE UNUSED THEME OPTIONS
+---------------------------------------------------- */
+
+#customize-control-thinkup_blog_style1layout {
+	display: none !important;
+}
