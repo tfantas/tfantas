@@ -1,0 +1,140 @@
+.ninja-forms-settings h3.hndle {
+    padding: 10px 12px;
+    margin: 0;
+}
+
+.nf-notice-promo {
+	background-color: #ef4748;
+    margin-left: -20px;
+	padding: 8px 0;
+    padding-right: 20px;
+	width: 100%;
+}
+
+.nf-notice-promo .wrap {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: auto;
+    margin-left: 20px;
+	width: 100%;
+}
+
+.nf-notice-promo strong {
+	color: white;
+	display: block;
+}
+
+.nf-notice-promo strong a {
+	color: white;
+	text-decoration: none;
+}
+
+.nf-notice-promo strong a:hover {
+	text-decoration: underline;
+}
+
+.nf-notice-promo a {
+	background: none;
+	box-shadow: none;
+	border: none;
+	color: white;
+	cursor: pointer;
+	height: 16px;
+    margin-right: 20px;
+	width: 16px;
+}
+
+.nf-notice-promo a svg {
+	height: 16px;
+	width: 16px;
+}
+
+.nf-notice-promo a .sr-only {
+	border-width: 0;
+	clip: rect(0, 0, 0, 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+.nf-loading-spinner {
+    width: 40px;
+    height: 40px;
+    margin: 15px auto;
+    background-color: rgba(208,208,208,.5);
+
+    border-radius: 100%;
+    animation: nf-scaleout 1.0s infinite ease-in-out;
+}
+
+@-webkit-keyframes nf-scaleout {
+    0% { transform: scale(0) }
+    100% {
+        transform: scale(1.0);
+        opacity: 0;
+    }
+}
+
+@keyframes nf-scaleout {
+    0% {
+        transform: scale(0);
+    } 100% {
+          transform: scale(1.0);
+          opacity: 0;
+      }
+}
+
+
+.ninja-forms-settings .postbox .item-controls {
+    display: none;
+}
+
+.nf_export_input {
+    width: 60%;
+}
+
+.nf_filter_sub_input {
+    width: 159px;
+}
+.nf-form-dropdown {
+    display:none;
+    border: 1px solid black;
+    background-color: lightgrey;
+    position: absolute;
+    max-height: 150px;
+    overflow: auto;
+    width: 60%;
+}
+
+.nf-form-option:hover {
+    background-color: #0073aa;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.nf-form-option {
+    padding: 4px;
+    border-bottom: 1px solid black;
+    margin-bottom: 0;
+}
+
+.alignleft.actions input[type=text] {
+    height: 28px;
+    border-radius: 4px;
+}
+
+.jBox-content {
+    overflow: hidden !important;
+}
+
+@media screen and ( max-width: 782px ) {
+    .tablenav.top .actions, .tablenav .view-switch {
+        display:block;
+    }
+}

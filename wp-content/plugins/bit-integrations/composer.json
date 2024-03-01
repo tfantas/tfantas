@@ -1,0 +1,22 @@
+{
+    "name": "bitcode/btcbi",
+    "description": "An Integration plugin for wordpress",
+    "license": "gpl-2",
+    "autoload": {
+        "psr-4": {
+            "BitCode\\FI\\": "includes/"
+        }
+    },
+    "require-dev": {
+        "phpcompatibility/phpcompatibility-wp": "*",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7"
+    },
+    "scripts": {
+        "version-checker": "phpcs -p --standard=PHPCompatibilityWP --runtime-set testVersion 5.6- includes"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}
