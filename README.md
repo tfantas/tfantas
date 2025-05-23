@@ -15,9 +15,36 @@ Here are some ideas to get you started:
 
 
 
-# 👋 Hi there
+# 👋 Hi, I'm Thiago
 
-I'm Thiago, based in Lisbon, :Portugal:, and I like java, Ansible and AWS.
+**Senior Software Architect & Java Expert | 20+ years in IT**
+
+🔧 Passionate about crafting scalable, maintainable, and high-performance systems using modern Java ecosystems, microservices, and cloud-native architectures.
+
+🌍 Based in Europe · Open to remote challenges · Focused on quality delivery and tech leadership.
+
+---
+
+## 🧠 About Me
+
+- 🚀 20+ years building tech from the ground up: from legacy systems to cloud-native apps
+- 🧩 Specialist in **Java, Spring Boot, Microservices, DevOps, Kafka, AWS, Kubernetes**
+- 👨‍💻 Led high-impact projects across industries: insurance, energy, gaming, fintech
+- 🧪 Experienced with CI/CD, architecture patterns, and team mentoring
+- 💡 Constant learner and AIx contributor
+
+---
+
+## 🔗 Connect with me
+
+- GitHub: [@tfantas](https://github.com/tfantas)
+- Email: *coming soon*
+- LinkedIn: *coming soon*
+- Portfolio: *in progress*
+
+---
+
+> _"Crafting clean architecture, one system at a time."_ ⚙️  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tfantas.visitor-badge)
 
