@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🧩 Specialist in **Java, Spring Boot, Microservices, DevOps, Kafka, AWS, Kubernetes**
 - 👨‍💻 Led high-impact projects across industries: insurance, energy, gaming, fintech
 - 🧪 Experienced with CI/CD, architecture patterns, and team mentoring
-- 💡 Constant learner and AIx contributor
+- 💡 Constant learner and AIx contributor - (https://www.investoraix.ai)
 
 ---
 
