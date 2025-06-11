@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-# 👋 Hi, I'm Thiago Antas - tfantas
+# 👋 Hi, I'm Thiago - tfantas
 
 **Senior Software Architect & AI Expert | 20+ years in IT | Part of AIx-Group**
 
