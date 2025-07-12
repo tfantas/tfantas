@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Thiago - tfantas
 
-**Senior Software Architect | 20+ years in IT | Part of AIx-Group**
+**Senior Software Architect & AI Expert | 20+ years in IT | Part of AIx-Group**
 
 🔧 Passionate about crafting scalable, maintainable, and high-performance systems using modern Java ecosystems, microservices, and cloud-native architectures.
 
