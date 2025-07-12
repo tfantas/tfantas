@@ -3,6 +3,7 @@
 # Arquiteto: Thiago Antas | AIx-Group | Senior Software Architect & AI Expert
 # Stack: Caddy + CyberPanel + Coolify + 1Panel + Docker + Security Hardening
 # Filosofia: Zero-tolerance para falhas | Enterprise-grade desde o primeiro deploy
+# curl -fsSL https://raw.githubusercontent.com/tfantas/tfantas/main/install-aix-enterprise-fixed.sh | sudo bash
 
 set -euo pipefail # Fail fast, fail loud - sem piedade para erros
 
