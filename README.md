@@ -48,11 +48,11 @@ I'm a systems architect and developer passionate about Artificial Intelligence, 
 
 ## 🔗 Connect with Me
 
-- 🌐 **Portfolio:** [tfantas.com](https://www.tfantas.com)
+- 🌐 **Portfolio:** [tfantas.com](https://tfantas.com)
 - 💼 **LinkedIn:** [thiagoantas](https://www.linkedin.com/in/thiagoantas/)
 - 🐦 **Twitter:** [@SkylineThiago](https://twitter.com/SkylineThiago)
-- 📧 **Email:** [tfantas@icloud.com](mailto:tfantas@icloud.com)
-- 🤖 **AIx Group:** [investoraix.ai](https://www.investoraix.ai)
+- 📧 **Email:** [tfantas@tfantas.io](mailto:tfantas@tfantas.io)
+- 🤖 **AIx Group:** [investoraix.ai](https://tfantas.com)
 
 ## 🤝 Let's Collaborate!
 Always open to collaborate with people and teams who share enthusiasm for transformative AI and enterprise-grade solutions. If you work with:
