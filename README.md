@@ -42,6 +42,9 @@ I'm a systems architect and developer passionate about Artificial Intelligence, 
 ![n8n](https://img.shields.io/badge/n8n-Automation-orange?logo=n8n)
 ![Supabase](https://img.shields.io/badge/Supabase-Realtime-brightgreen?logo=supabase)
 
+![16-Certs-AI-Thiago](https://github.com/user-attachments/assets/0272be78-04b7-4ce0-b6f0-bef7a8b3e2cd)
+
+
 ## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfantas&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tfantas&layout=compact&theme=radical)
