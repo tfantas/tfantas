@@ -49,6 +49,21 @@ I'm a systems architect and developer passionate about Artificial Intelligence, 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfantas&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tfantas&layout=compact&theme=radical)
 
+## 🔥 Available for Hire
+
+**Generative AI Engineer** ready for your next project! I specialize in:
+
+- 🤖 **AI Agent Development**: Building autonomous agents with GPT-4, Claude, Gemini
+- - 🧠 **Enterprise LLM Solutions**: RAG systems, fine-tuning, prompt engineering
+  - - ⚡ **Agentic AI Workflows**: n8n, LangChain, AutoGPT orchestration
+    - - 🏗️ **AI Architecture**: Scalable, secure, production-ready AI systems
+     
+      - **💼 Hire me on [Upwork](https://www.upwork.com/freelancers/~012b430c05274540fb)**
+     
+      - > 🌐 Remote worldwide • 💬 English/Portuguese • ⏱️ Fast delivery
+        >
+        > 
+
 ## 🔗 Connect with Me
 
 - 🌐 **Portfolio:** [tfantas.com](https://tfantas.com)
