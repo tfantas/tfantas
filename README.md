@@ -52,6 +52,27 @@ I'm a systems architect and developer passionate about Artificial Intelligence, 
 | Get Started with Databricks for Generative AI | Sep 2025 |
 | Get Started with Databricks for Business Leaders | Sep 2025 |
 
+### 🎓 **Simplilearn SkillUp Certifications**
+
+| Certification | Date |
+|---------------|------|
+| ChatGPT Advanced Course | Sep 2025 |
+| Generative AI for Beginners | Sep 2025 |
+| Deep Learning for Beginners | Sep 2025 |
+| Machine Learning using Python | Sep 2025 |
+| DeepSeek for Beginners | Sep 2025 |
+| TensorFlow for Beginners | Sep 2025 |
+| ChatGPT for Project Management | Sep 2025 |
+| Introduction to GAN | Sep 2025 |
+| Introduction to Supervised & Unsupervised Machine Learning | Sep 2025 |
+| Mistral AI for Beginners | Sep 2025 |
+| Introduction to Generative AI Studio | Sep 2025 |
+| Introduction to Advanced Gen AI Tools | Sep 2025 |
+| Introduction to Prompt Engineering | Sep 2025 |
+| Introduction to Data Analytics | Sep 2025 |
+| RAG Course for Beginners | Sep 2025 |
+| Introduction to Machine Learning with R | Sep 2025 |
+
 
 ## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfantas&show_icons=true&theme=radical)
