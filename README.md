@@ -44,6 +44,14 @@ I'm a systems architect and developer passionate about Artificial Intelligence, 
 
 ![16-Certs-AI-Thiago](https://github.com/user-attachments/assets/0272be78-04b7-4ce0-b6f0-bef7a8b3e2cd)
 
+### 🏅 **Databricks Certifications**
+
+| Certification | Date |
+|--------------|------|
+| Get Started with SQL Analytics and BI on Databricks | Sep 2025 |
+| Get Started with Databricks for Generative AI | Sep 2025 |
+| Get Started with Databricks for Business Leaders | Sep 2025 |
+
 
 ## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfantas&show_icons=true&theme=radical)
