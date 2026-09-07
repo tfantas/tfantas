@@ -31,8 +31,10 @@ Available for architecture sprints, production AI pilots, modernization audits, 
 
 ### Verified credentials
 
+- **Post Graduate Program in AI and Machine Learning — Purdue University Online / Simplilearn**
+  - Program: July 2025–February 2026 · Credential issued: 7 September 2026
+  - Certificate ID: **193429471** · Issuer: Simplilearn · [Verify credential](https://success.simplilearn.com/def582bb-517b-4d87-9721-a2957335415b)
 - [HackerRank](https://www.hackerrank.com/profile/tfantas): Problem Solving 6-star, Java 5-star, Python 5-star, and Software Engineer Role Certificate
-- Professional Certificate in AI and Machine Learning, Purdue University
 
 ### Connect
 
